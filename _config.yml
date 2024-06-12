@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zehuai Lin / Home Page"
+title                    : "Zehuai Lin / Homepage"
 title_separator          : "-"
 name                     : &name "Zehuai Lin"
 description              : &description "personal description"
