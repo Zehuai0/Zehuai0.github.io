@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Academic competitions"
-permalink: /competition/
+permalink: /competitions/
 author_profile: true
 ---
