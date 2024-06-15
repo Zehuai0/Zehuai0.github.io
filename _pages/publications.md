@@ -14,6 +14,7 @@ The main areas of my current papers are aircraft modeling, guidance, and control
 1. **Lin Z**, Liu Q, Liu S, et al. Transition Controller Design of Tilt-Rotor UAV Based on Incremental Nonlinear Dynamic Inversion[C]//IECON 2023-49th Annual Conference of the IEEE Industrial Electronics Society. IEEE, 2023: 1-6. ([paper](https://ieeexplore.ieee.org/abstract/document/10312014))
 
 ## Journal Publications
+1. **Lin Z**, Yan B, Liu S, et al. Multi-level switching control scheme for folding wing VTOL UAV based on dynamic allocation[J]. Drones, 2024. (under review) ([Video](https://pan.baidu.com/s/1ruKs4zJ_j3uF3YZSPTPSEg?pwd=zqx6)) 
 
 1. Liu S, **Lin Z**, Yan B, et al. Theory to Applications Adaptive Sliding Mode Control of Two-wheeled Robots for Planetary Exploration: From Theory to Application[J]. Aerospace Science and Technology, 2024. (**co-first author**, accept)
 
