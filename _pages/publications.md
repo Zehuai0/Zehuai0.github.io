@@ -15,9 +15,9 @@ The main areas of my current papers are aircraft modeling, guidance, and control
 
 ## Journal Publications
 
-1. Liu S, **Lin Z**, Yan B, et al. Theory to Applications Adaptive Sliding Mode Control of Two-wheeled Robots for Planetary Exploration: From Theory to Application[J]. Aerospace Science and Technology, 2024. (co-first author, accept)
+1. Liu S, **Lin Z**, Yan B, et al. Theory to Applications Adaptive Sliding Mode Control of Two-wheeled Robots for Planetary Exploration: From Theory to Application[J]. Aerospace Science and Technology, 2024. (**co-first author**, accept)
 
-2. Liu S, **Lin Z**, Yan B, et al. Wide-speed vehicle control considering flight-propulsion coupling constraints[J]. Journal of Aerospace Engineering, 2023, 36(6): 04023085. (co-first author) ([paper](https://ascelibrary.org/doi/abs/10.1061/JAEEEZ.ASENG-5066))
+2. Liu S, **Lin Z**, Yan B, et al. Wide-speed vehicle control considering flight-propulsion coupling constraints[J]. Journal of Aerospace Engineering, 2023, 36(6): 04023085. (**co-first author**) ([paper](https://ascelibrary.org/doi/abs/10.1061/JAEEEZ.ASENG-5066))
 
 3. Yan B (Supv.), **Lin Z**, Liu S, et al. Research on integrated aircraft-engine control method of hypersonic vehicle based on dynamic inversion control[J]. Journal of Northwestern Polytechnical University, 2023, 41(5): 878-886. (in Chinese) ([paper](https://www.jnwpu.org/articles/jnwpu/abs/2023/05/jnwpu2023415p878/jnwpu2023415p878.html))
 
