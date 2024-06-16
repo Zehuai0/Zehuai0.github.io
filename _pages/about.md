@@ -13,7 +13,7 @@ In 2018, Lin was admitted to the School of Electronic and Control Engineering at
 
 Subsequently, Lin was recommended to the School of Astronautics at Northwestern Polytechnical University to pursue a master's degree in Control Engineering. He focused on courses such as Overall Design of Aircraft, Nonlinear Control Systems, Applications of Artificial Intelligence, and State Estimation and Autonomous Navigation of Robotic Systems, with his main research direction being aircraft guidance and control. While participating in academic competitions and research projects, he continued to maintain excellent grades **(Top 5%)**. He is expected to graduate in April 2025.
 
-Lin has currently authored 6 papers and 1 patent as the first author, co-first, or first student author. Additionally, he has written 2 papers as the second author. As the team leader, he has won nine provincial or higher-level academic competition awards and has led three research projects.
+Lin has currently authored 6 papers and 1 patent as the first author, co-first, or first student author. Additionally, he has written 2 papers as the second author. As a team leader, he has won nine provincial or higher-level academic competition awards and has led three research projects.
 
 He welcomes emails from fellow students for communication and mutual progress and kindly requests guidance and feedback from experts.
 
