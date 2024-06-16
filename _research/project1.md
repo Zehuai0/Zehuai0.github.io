@@ -1,7 +1,7 @@
 ---
-title: "project 1: robotics"
+title: "Research on deformation control technology of small folding wing VTOL UAV"
 collection: research
-excerpt: 'project1 work.'
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 ---
 
 sasdasdasd
