@@ -283,6 +283,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: true
   # _competitions
   - scope:
       path: ""
@@ -291,6 +292,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: true
 
 
 # Sass/SCSS
